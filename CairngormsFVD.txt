@@ -231,7 +231,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 4053632781	10815555@N05	2009-07-08_12:20:26	youth_hostel_tomintoul	57.251458	-3.378925	1	Jul	2009	2009-07-08
 4054359002	10815555@N05	2009-07-06_12:07:49	youth_hostel_tomintoul	57.251458	-3.378925	1	Jul	2009	2009-07-06
 4052317925	10815555@N05	2009-07-11_12:37:37	NA	57.251458	-3.378925	1	Jul	2009	2009-07-11
-3978476006	12389209@N04	2009-07-16_14:50:08	uk_green_castle_landscape_scotland_landscapes_highlands_greenisbeautiful_vert_hills_gps_paysage_ch?Ûteau_ecosse_collines_rurales_geographie_landscapephotography_corgarff_bridgecamera_corgarffcastle_worldlandscapes_palacescastlestowerspagodasfortressesand	57.170014	-3.232104	1	Jul	2009	2009-07-16
+3978476006	12389209@N04	2009-07-16_14:50:08	uk_green_castle_landscape_scotland_landscapes_highlands_greenisbeautiful_vert_hills_gps_paysage_ch?√≥teau_ecosse_collines_rurales_geographie_landscapephotography_corgarff_bridgecamera_corgarffcastle_worldlandscapes_palacescastlestowerspagodasfortressesand	57.170014	-3.232104	1	Jul	2009	2009-07-16
 3870559012	16188748@N07	2009-07-19_09:30:00	NA	57.291486	-3.668253	1	Jul	2009	2009-07-19
 3856438518	67872859@N00	2009-07-25_12:50:53	NA	57.252187	-3.379154	1	Jul	2009	2009-07-25
 3801615477	83432431@N00	2009-07-22_16:15:14	panorama_nationalpark_unitedkingdom_cairngorm_gbr	57.123888	-3.645556	1	Jul	2009	2009-07-22
@@ -288,7 +288,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 5489858041	28662385@N04	2009-08-20_18:30:40	NA	57.100667	-3.1545	1	Aug	2009	2009-08-20
 4854547718	52316027@N05	2009-08-27_14:08:23	NA	57.150023	-3.823242	1	Aug	2009	2009-08-27
 4219731227	84568554@N00	2009-08-12_17:37:47	blackandwhite_bw_byn_blancoynegro_photoshop_blackwhite_noir_bn_blanc_negre_blancinegre_photomatix_tonemapping_tonemap	57.039474	-3.217495	1	Aug	2009	2009-08-12
-4210047842	84568554@N00	2009-08-13_10:16:56	art_church_photoshop_religious_temple_scotland_highlands_high_nikon_catholic_dynamic_cathedral_unitedkingdom_united_religion_catedral_iglesia_scottish_kingdom_escocia_hermitage_range_ballater_hdr_templo_ermita_baptisterio_especial_reino_unido_abad?°a_par	57.049022	-3.039753	1	Aug	2009	2009-08-13
+4210047842	84568554@N00	2009-08-13_10:16:56	art_church_photoshop_religious_temple_scotland_highlands_high_nikon_catholic_dynamic_cathedral_unitedkingdom_united_religion_catedral_iglesia_scottish_kingdom_escocia_hermitage_range_ballater_hdr_templo_ermita_baptisterio_especial_reino_unido_abad?¬°a_par	57.049022	-3.039753	1	Aug	2009	2009-08-13
 4140255508	64865208@N00	2009-08-08_09:15:15	NA	57.188332	-3.8294	1	Aug	2009	2009-08-08
 4140249042	64865208@N00	2009-08-06_09:22:21	NA	57.265585	-3.65437	1	Aug	2009	2009-08-06
 4001329666	32109534@N02	2009-08-21_14:02:59	uk_trees_tree_green_water_leaves_scotland_leaf_highlands_branch_unitedkingdom_britain_branches_highland_greens_greenery	57.079134	-4.051551	1	Aug	2009	2009-08-21
@@ -521,8 +521,8 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 6286378182	50953837@N07	2010-04-29_16:34:16	NA	56.824721	-3.495905	1	Apr	2010	2010-04-29
 6020239708	42006397@N00	2010-04-12_11:54:33	trees_forest_o_burn_vat_clone_burnovat	57.083851	-2.946395	1	Apr	2010	2010-04-12
 5370110676	58572049@N08	2010-04-17_12:05:42	dog	56.767778	-3.838348	1	Apr	2010	2010-04-17
-5196698432	74733773@N00	2010-04-28_16:06:59	‘£_	56.887	-4.210334	1	Apr	2010	2010-04-28
-5196034157	74733773@N00	2010-04-29_18:46:24	bird_scotland_highlands_‘£_	56.887	-4.210334	1	Apr	2010	2010-04-29
+5196698432	74733773@N00	2010-04-28_16:06:59	√î¬£_	56.887	-4.210334	1	Apr	2010	2010-04-28
+5196034157	74733773@N00	2010-04-29_18:46:24	bird_scotland_highlands_√î¬£_	56.887	-4.210334	1	Apr	2010	2010-04-29
 4686288802	23737563@N00	2010-04-25_11:26:13	uk_game_building_architecture_canon_buildings_scotland_europe_britishisles_unitedkingdom_britain_scottish_escocia_april_months_ballater_balmoral_2010_eos400d_chrisnixon_notnixon_notnixoncom	57.040686	-3.227391	1	Apr	2010	2010-04-25
 4663680721	23737563@N00	2010-04-24_12:11:43	uk_canon_eos_rebel_scotland_europe_britishisles_unitedkingdom_britain_scottish_escocia_trainstation_april_months_queenvictoria_ballater_2010_abdulkarim_britishroyalty_xti_400d_chrisnixon_notnixon_notnixoncom	57.050153	-3.04064	1	Apr	2010	2010-04-24
 4640265584	67872859@N00	2010-04-25_10:22:51	NA	57.162417	-3.185005	1	Apr	2010	2010-04-25
@@ -561,7 +561,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 6133992724	28404646@N00	2010-05-04_12:57:34	uk_cliff_nature_walking_scotland_europe_hill_scree_geology_cairngorm_cairngorms_sigmadp1_stacnahiolaire	57.157052	-3.629093	1	May	2010	2010-05-04
 5610613134	61507298@N06	2010-05-17_09:30:59	canon	57.11327	-3.957996	1	May	2010	2010-05-17
 5441779023	59061773@N02	2010-05-24_14:41:56	NA	57.072702	-4.039363	1	May	2010	2010-05-24
-5195612390	28404646@N00	2010-05-05_14:39:19	uk_winter_people_mist_snow_nature_walking_scotland_europe_hill_cairngorm_cairngorms_munro_sigmadp1_anc?·rngorm	57.120592	-3.650314	1	May	2010	2010-05-05
+5195612390	28404646@N00	2010-05-05_14:39:19	uk_winter_people_mist_snow_nature_walking_scotland_europe_hill_cairngorm_cairngorms_munro_sigmadp1_anc?√°rngorm	57.120592	-3.650314	1	May	2010	2010-05-05
 5160760526	47185278@N00	2010-05-29_15:35:02	sky_lake_mountains_tree_water_colors_rain_clouds_trek_scotland_highlands_rocks_path_heather_sony_dramatic_loch_alpha_dslr_2470mmf28_a900_sonydslra900_scenicslandscapes_maciejbmarkiewicz_56??484322n4??7576w_gettyimagesbeneluxq1	56.812006	-4.118266	1	May	2010	2010-05-29
 4931793599	45011232@N02	2010-05-29_13:47:16	clouds_scotland_highlands_cairngorm	57.136472	-3.671665	1	May	2010	2010-05-29
 4925702629	51950223@N03	2010-05-12_00:00:12	scotland_aberdeen_balmoral	57.039159	-3.229615	1	May	2010	2010-05-12
@@ -648,7 +648,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 6241644779	68636538@N08	2010-07-17_13:47:31	NA	57.335051	-3.59858	1	Jul	2010	2010-07-17
 6241641225	68636538@N08	2010-07-12_19:25:24	NA	57.036293	-4.145622	1	Jul	2010	2010-07-12
 6012559098	63570057@N06	2010-07-26_17:32:58	deeside_lairig_ghru_felwort	56.997324	-3.544807	1	Jul	2010	2010-07-26
-5400462173	54979536@N07	2010-07-27_13:49:10	trees_green_nature_loneliness_shadows_path_couleurs_arbres_vignette_printemps_chemin_feuilles_springtime_plantes_quietness_fore?_t_se?¸pia	57.039741	-3.21665	1	Jul	2010	2010-07-27
+5400462173	54979536@N07	2010-07-27_13:49:10	trees_green_nature_loneliness_shadows_path_couleurs_arbres_vignette_printemps_chemin_feuilles_springtime_plantes_quietness_fore?_t_se?√ºpia	57.039741	-3.21665	1	Jul	2010	2010-07-27
 5305771873	29954772@N00	2010-07-17_08:10:30	highlandgames_tomintoul_cairngormsnationalpark_glenlivet	57.247012	-3.37556	1	Jul	2010	2010-07-17
 5140458604	72336056@N00	2010-07-23_16:49:37	NA	57.327222	-3.605843	1	Jul	2010	2010-07-23
 5122970903	31450835@N05	2010-07-04_10:34:58	scotland_unitedkingdom_pregamewinner_speysideglenlivetward	57.283527	-3.817298	1	Jul	2010	2010-07-04
@@ -709,7 +709,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 5336460278	13227773@N08	2010-08-05_16:12:40	old_red_car_logo_rust_grille_landrover_carrbridge_cam_panasonic=tz5	57.284111	-3.816418	1	Aug	2010	2010-08-05
 5280442781	57216876@N03	2010-08-07_14:18:25	NA	57.116264	-3.955013	1	Aug	2010	2010-08-07
 5221640773	18077626@N00	2010-08-29_14:54:18	scotland_motorcycles_harley_biker_thunderintheglens	57.011352	-4.301533	1	Aug	2010	2010-08-29
-5136502348	35280696@N02	2010-08-01_21:41:03	geotagged_scotland_ecosse_?Æcosse_xsc_badenochandstrathspeyward_geo_lon=429315000_geo_lat=5701260900	57.012608	-4.29315	1	Aug	2010	2010-08-01
+5136502348	35280696@N02	2010-08-01_21:41:03	geotagged_scotland_ecosse_?¬Æcosse_xsc_badenochandstrathspeyward_geo_lon=429315000_geo_lat=5701260900	57.012608	-4.29315	1	Aug	2010	2010-08-01
 5096095427	55005195@N06	2010-08-05_23:56:27	NA	57.278312	-3.811365	1	Aug	2010	2010-08-05
 5082177940	18077626@N00	2010-08-28_14:59:30	portrait_pickup_chevy_rockabilly_custom_5dmkii	57.191233	-3.833799	1	Aug	2010	2010-08-28
 5047501936	54323450@N03	2010-08-08_02:08:52	scotland	56.944974	-3.164062	1	Aug	2010	2010-08-08
@@ -728,7 +728,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 4956376651	8161563@N04	2010-08-20_16:57:21	dog_rosie_akita_akitadog_americanakita	57.033724	-3.213157	1	Aug	2010	2010-08-20
 4955029413	16056465@N00	2010-08-03_20:09:40	scotland_loch_lochgarten	57.239891	-3.703534	1	Aug	2010	2010-08-03
 4955615942	16056465@N00	2010-08-04_21:32:03	scotland_loch_lochgarten	57.239891	-3.703534	1	Aug	2010	2010-08-04
-4951425336	7815453@N05	2010-08-09_14:09:42	castle_scotland_blair_blaircastle_ecosse_estremit?·	56.770835	-3.837404	1	Aug	2010	2010-08-09
+4951425336	7815453@N05	2010-08-09_14:09:42	castle_scotland_blair_blaircastle_ecosse_estremit?√°	56.770835	-3.837404	1	Aug	2010	2010-08-09
 4949528374	28429603@N02	2010-08-30_18:36:49	uk_panorama_landscape_geotagged_scotland_panoramic_best_gps_favourite_scape_stitched_hdr_2010_ptgui	57.102327	-3.147328	2	Aug	2010	2010-08-30
 4948937019	28429603@N02	2010-08-09_18:22:06	uk_panorama_landscape_geotagged_scotland_panoramic_best_gps_favourite_scape_stitched_hdr_2010_ptgui	57.131	-3.151778	2	Aug	2010	2010-08-09
 4943282102	31773956@N06	2010-08-30_22:46:20	scotland_elma_warmemorial_ballater	57.048182	-3.039178	2	Aug	2010	2010-08-30
@@ -779,7 +779,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 5455984208	59020991@N04	2010-09-06_10:23:07	bridge_water_rock_landscape_scotland_nikon_falls_p5100	57.283867	-3.815796	1	Sep	2010	2010-09-06
 5254809672	46151714@N02	2010-09-11_15:56:13	puddle_boots	57.063982	-4.130292	1	Sep	2010	2010-09-11
 5130797366	8481675@N07	2010-09-11_10:13:56	NA	56.851431	-4.244226	1	Sep	2010	2010-09-11
-5110099883	43421354@N04	2010-09-02_17:34:40	roadtrip_loma_kes?Ò_skotlanti_phototrek_lomamatka_kirsille	57.1071	-3.974003	1	Sep	2010	2010-09-02
+5110099883	43421354@N04	2010-09-02_17:34:40	roadtrip_loma_kes?√±_skotlanti_phototrek_lomamatka_kirsille	57.1071	-3.974003	1	Sep	2010	2010-09-02
 5093045705	43430564@N02	2010-09-07_12:58:40	NA	57.33458	-3.61912	1	Sep	2010	2010-09-07
 5064452587	18757080@N00	2010-09-15_15:06:42	dog_scotland_collie_border_smudge_bordercollie	57.017006	-3.403551	1	Sep	2010	2010-09-15
 5062803979	18757080@N00	2010-09-21_12:40:00	dog_scotland_collie_border_smudge_bordercollie	56.99889	-3.416748	1	Sep	2010	2010-09-21
@@ -1139,8 +1139,8 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 5606639508	34268979@N05	2011-04-07_18:31:41	road_sunset_walking_landscape_scotland_track_farm_solo_lone_cinematic_hillwalk	56.787622	-3.771915	3	Apr	2011	2011-04-07
 5605892225	23818529@N04	2011-04-09_14:08:48	NA	57.069296	-3.041496	3	Apr	2011	2011-04-09
 5601475004	28168862@N07	2011-04-07_19:24:05	sunset_water_clouds_scotland_long_exposure_aberdeenshire_filter_lee_loch_kinord_bigstopper	57.08385	-2.91564	3	Apr	2011	2011-04-07
-5601204286	37928783@N00	2011-04-06_18:02:23	holiday_see_scotland_tour_visit_lichens_aviemore_to‘«ÿ_‘«£go	57.176156	-3.810067	3	Apr	2011	2011-04-06
-5600612259	37928783@N00	2011-04-04_16:12:23	holiday_see_scotland_fishing_tour_visit_aviemore_to‘«ÿ_‘«£go	57.176421	-3.817405	3	Apr	2011	2011-04-04
+5601204286	37928783@N00	2011-04-06_18:02:23	holiday_see_scotland_tour_visit_lichens_aviemore_to√î√á√ò_√î√á¬£go	57.176156	-3.810067	3	Apr	2011	2011-04-06
+5600612259	37928783@N00	2011-04-04_16:12:23	holiday_see_scotland_fishing_tour_visit_aviemore_to√î√á√ò_√î√á¬£go	57.176421	-3.817405	3	Apr	2011	2011-04-04
 5600389254	69075647@N00	2011-04-03_13:38:27	mountain_rock_scotland_waterfall_eagles	56.93699	-3.264954	3	Apr	2011	2011-04-03
 5598741791	29383398@N07	2011-04-08_00:43:41	dennisjavelin_leylandlynx_rapsons_plaxtonprofile	57.193104	-3.827716	3	Apr	2011	2011-04-08
 5598036269	70148240@N00	2011-04-07_12:40:40	tree_abandoned_wall_scotland_track_aberdeenshire_cottage_ruin_dyke_decayed_broomhill_dormers_strathdon_deskry	57.195993	-2.977428	3	Apr	2011	2011-04-07
@@ -1155,9 +1155,9 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8889958528	8833545@N03	2011-05-12_11:35:44	NA	57.06604	-2.947648	1	May	2011	2011-05-12
 8537185394	93778395@N07	2011-05-02_15:40:04	scotland_ballater_grazing_reddeer_balmoral_lochnagar_lochmuick_whitemounth	56.949626	-3.142486	1	May	2011	2011-05-02
 8446495670	33923448@N02	2011-05-28_09:36:52	railtour_deltic_srps_dalnaspidal_47804_55022_1z64_deltic22_28052011_kylecrusader	56.818509	-4.182872	1	May	2011	2011-05-28
-7169392780	38247825@N02	2011-05-29_09:23:51	blue_sky_cloud_mountain_lake_tree_water_grass_azul_arbol_lago_agua_cielo_nube_hierba_montan?‚a	57.270133	-3.114624	1	May	2011	2011-05-29
+7169392780	38247825@N02	2011-05-29_09:23:51	blue_sky_cloud_mountain_lake_tree_water_grass_azul_arbol_lago_agua_cielo_nube_hierba_montan?√¢a	57.270133	-3.114624	1	May	2011	2011-05-29
 7118429721	77684811@N00	2011-05-30_07:44:47	scotland_ardnamurchan_johnslens_hipstamatic_inas1969film	57.195333	-3.821167	1	May	2011	2011-05-30
-7087620809	38247825@N02	2011-05-23_12:16:32	uk_sky_cloud_mountain_snow_tree_verde_green_grass_landscape_arbol_scotland_nieve_paisaje_escocia_highland_cielo_nube_reinounido_hierba_cairngormsnationalpark_montan?‚a	57.077974	-3.641967	1	May	2011	2011-05-23
+7087620809	38247825@N02	2011-05-23_12:16:32	uk_sky_cloud_mountain_snow_tree_verde_green_grass_landscape_arbol_scotland_nieve_paisaje_escocia_highland_cielo_nube_reinounido_hierba_cairngormsnationalpark_montan?√¢a	57.077974	-3.641967	1	May	2011	2011-05-23
 6954620043	85002632@N00	2011-05-07_16:26:27	NA	56.965997	-3.103437	1	May	2011	2011-05-07
 6906088317	76074981@N07	2011-05-12_08:56:14	climbing_cairngorms_classicrock_savageslit	57.130836	-3.699073	1	May	2011	2011-05-12
 6694400373	33042594@N08	2011-05-03_05:52:20	iphotooriginal	56.991389	-4.34	1	May	2011	2011-05-03
@@ -1345,7 +1345,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 6002506851	7346653@N08	2011-07-30_21:32:12	mountain_lake_water_scotland_highlands_loch_ptarmigan_cairngorm	57.137077	-3.671751	1	Jul	2011	2011-07-30
 5995291253	29383398@N07	2011-07-28_18:10:29	volvob10m_plaxtonpremiere_stagecoachhighland	57.193104	-3.827716	1	Jul	2011	2011-07-28
 5995605788	28880143@N08	2011-07-28_11:01:40	speygibson072011	57.124034	-3.925724	2	Jul	2011	2011-07-28
-5995220784	36539950@N00	2011-07-30_10:19:57	cycling_scotland_july_kingdom_400_come_perm_29th_audax_ecosse_?Æcosse_2011_brevet	57.04967	-3.041217	2	Jul	2011	2011-07-30
+5995220784	36539950@N00	2011-07-30_10:19:57	cycling_scotland_july_kingdom_400_come_perm_29th_audax_ecosse_?¬Æcosse_2011_brevet	57.04967	-3.041217	2	Jul	2011	2011-07-30
 5991050192	26835091@N04	2011-07-30_13:14:43	raw	56.775489	-3.839479	2	Jul	2011	2011-07-30
 5990559738	49440063@N02	2011-07-12_13:54:52	macro_nature_insect_wildlife_damselfly_rothiemurchus_commonblue_odonata_zygoptera_lochaneilein	57.151559	-3.822212	2	Jul	2011	2011-07-12
 5989757244	20969850@N06	2011-07-21_09:18:16	NA	57.172911	-3.235381	2	Jul	2011	2011-07-21
@@ -1735,7 +1735,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 6939852499	53725815@N00	2012-02-26_14:16:57	river_don_cairn	57.173519	-3.252429	1	Feb	2012	2012-02-26
 6793431844	77255062@N04	2012-02-28_15:06:46	NA	57.121798	-3.925809	1	Feb	2012	2012-02-28
 6939244223	53725815@N00	2012-02-25_17:42:35	NA	57.081097	-3.372698	1	Feb	2012	2012-02-25
-6786749470	27212056@N00	2012-02-25_11:01:15	station_scotland_alba_railway_scotrail_signage_gaelic_cag_carrbridge_gaidhlig_g?·idhlig_skotlando_dachananach_st?øisean_steisean_d?·ch?·nanach_soidhnichean_drochaidch?·rr_ainmaite	57.27806	-3.81153	1	Feb	2012	2012-02-25
+6786749470	27212056@N00	2012-02-25_11:01:15	station_scotland_alba_railway_scotrail_signage_gaelic_cag_carrbridge_gaidhlig_g?√°idhlig_skotlando_dachananach_st?¬øisean_steisean_d?√°ch?√°nanach_soidhnichean_drochaidch?√°rr_ainmaite	57.27806	-3.81153	1	Feb	2012	2012-02-25
 6781708052	32787307@N05	2012-02-12_13:00:36	NA	57.159403	-3.684593	1	Feb	2012	2012-02-12
 6780676760	65833288@N08	2012-02-18_13:00:58	NA	57.191211	-3.829421	1	Feb	2012	2012-02-18
 6778124278	77255062@N04	2012-02-23_15:02:03	shadow_texture_forest_dramatic_gravestone	57.123102	-3.924608	1	Feb	2012	2012-02-23
@@ -1777,7 +1777,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 7227370308	78427818@N07	2012-03-31_12:08:51	NA	57.096457	-4.011447	1	Mar	2012	2012-03-31
 6946823516	20724457@N00	2012-03-26_15:40:25	NA	57.104666	-3.686833	1	Mar	2012	2012-03-26
 6931113168	40112784@N03	2012-03-06_09:57:36	march_scotland_olympuspen_cairngorms_trigpoint_samyang_linnofdee_sgordubh	56.997511	-3.580341	1	Mar	2012	2012-03-06
-6928112048	65155009@N00	2012-03-11_12:20:34	river_scotland_highlands_carrbridge_speyside_charra_charr_dulnain_drochaid_riverdulnain_drochaidcharra_drochaidcharr_drochaidch?·rr_carrbrig_ch?·rr	57.283792	-3.815506	1	Mar	2012	2012-03-11
+6928112048	65155009@N00	2012-03-11_12:20:34	river_scotland_highlands_carrbridge_speyside_charra_charr_dulnain_drochaid_riverdulnain_drochaidcharra_drochaidcharr_drochaidch?√°rr_carrbrig_ch?√°rr	57.283792	-3.815506	1	Mar	2012	2012-03-11
 6916059958	7594803@N06	2012-03-30_15:39:39	cameraphone_galaxy_vignette_android_s2_kingussie_galaxys2	57.082755	-4.050607	1	Mar	2012	2012-03-30
 7062082863	7594803@N06	2012-03-17_18:00:45	cameraphone_scotland_vignette_android_kingussie_ruthvenbarracks_galaxys2	57.08128	-4.0505	1	Mar	2012	2012-03-17
 7059810395	41940444@N07	2012-03-30_16:40:32	blue_sky_water_clouds_forest_reflections_landscape_scotland_highlands_day_hills_pinetrees_tranquil_cairngorms_abernethyforest_cairngormnationalpark_lochgarten_canoneos50d_lochaghartain_pwpartlycloudy	57.245065	-3.700504	1	Mar	2012	2012-03-30
@@ -1923,7 +1923,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 21187146542	67234283@N03	2012-05-20_04:40:23	trees_mist_sunrise_reflections_landscape_scotland_unitedkingdom_loch_aviemore_2012_cairngorms_vaa	57.235141	-3.805337	1	May	2012	2012-05-20
 16284214920	23666292@N07	2012-05-16_13:03:04	blackandwhite_cute_animal_cat_scotland_unitedkingdom_kittens_wildcat_kincraig_canon100400mm_eos7d_highlandtiger_andrewmcgavin	57.107447	-3.97447	1	May	2012	2012-05-16
 16451435232	23452136@N08	2012-05-26_19:48:54	reddeer_scottishwildlife_reddeerstag	56.940742	-3.14971	1	May	2012	2012-05-26
-14926612219	41558538@N02	2012-05-30_14:50:11	building_castle_history_photoshop_garden_scotland_unitedkingdom_medieval_castelo_slot_pils_schloss_castello_ch?Ûteau_garten_kale_middleages_’Éƒ_geb?Òude_castillo_hdr_hrad_balmoral_puri_schottland_kasteel_geschichte_grossbritannien_zamek_mittelalter_kaste	57.041196	-3.231568	1	May	2012	2012-05-30
+14926612219	41558538@N02	2012-05-30_14:50:11	building_castle_history_photoshop_garden_scotland_unitedkingdom_medieval_castelo_slot_pils_schloss_castello_ch?√≥teau_garten_kale_middleages_√ï¬É√Ñ_geb?√±ude_castillo_hdr_hrad_balmoral_puri_schottland_kasteel_geschichte_grossbritannien_zamek_mittelalter_kaste	57.041196	-3.231568	1	May	2012	2012-05-30
 14854908052	122828183@N02	2012-05-11_12:12:13	flickrandroidapp_filter=none	56.830383	-4.216734	1	May	2012	2012-05-11
 12545660255	16759518@N08	2012-05-05_14:54:38	NA	57.148502	-3.824195	1	May	2012	2012-05-05
 12540419754	16759518@N08	2012-05-01_07:20:07	NA	57.148502	-3.824195	1	May	2012	2012-05-01
@@ -1940,7 +1940,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8274928117	7594803@N06	2012-05-23_21:18:32	NA	57.084911	-4.0509	1	May	2012	2012-05-23
 8274927619	7594803@N06	2012-05-24_21:28:26	NA	57.084688	-4.05092	1	May	2012	2012-05-24
 8275992040	7594803@N06	2012-05-25_21:22:57	NA	57.085819	-4.050839	1	May	2012	2012-05-25
-8178587029	28168862@N07	2012-05-20_13:38:30	scotland_hill_perthshire_an_lodge_munro_carn_righ_fealar_alltf?øithl?·ir	56.876605	-3.595175	1	May	2012	2012-05-20
+8178587029	28168862@N07	2012-05-20_13:38:30	scotland_hill_perthshire_an_lodge_munro_carn_righ_fealar_alltf?¬øithl?√°ir	56.876605	-3.595175	1	May	2012	2012-05-20
 8077236857	88465427@N03	2012-05-17_14:51:35	NA	57.005808	-3.399882	1	May	2012	2012-05-17
 7815315476	50953837@N07	2012-05-12_16:32:46	NA	56.94526	-3.16889	1	May	2012	2012-05-12
 7812146878	51116425@N06	2012-05-26_20:29:02	uk_greatbritain_trees_tractor_mountains_field_scotland_sheep_unitedkingdom_britain_farm_meadow_peaks_aviemore_cairngorms_rothiemurchus	57.15593	-3.794656	1	May	2012	2012-05-26
@@ -1958,7 +1958,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 7419670620	19044727@N00	2012-05-28_14:32:06	uk_mountain_nature_landscape_scotland_highlands_europe_path_trail_aviemore_pathway_cairngorm_ibeauty	57.188669	-3.846051	2	May	2012	2012-05-28
 7400663318	9697853@N03	2012-05-20_11:35:16	scotland_glentanar	57.056095	-2.853698	2	May	2012	2012-05-20
 7346368206	26045503@N05	2012-05-22_18:48:05	wood_dark_scotland_scary_woods_unitedkingdom_decay_shed_horror_blairwitch_rothiemurchus_coylumbridge	57.173019	-3.795031	2	May	2012	2012-05-22
-7325199196	29516299@N00	2012-05-25_11:55:31	greatbritain_mountains_canon_landscape_photography_eos_scotland_highlands_hiking_perthshire_5d_paysage_landschaft_2012_landschap_cairngorms_hillwalking_ecosse_munro_schiehallion_carnliath_beinnaghlo_c?·rnnangabhar_br?·ighcoirechruinnbhalgainbr?·ighcoirec	56.798904	-3.832597	2	May	2012	2012-05-25
+7325199196	29516299@N00	2012-05-25_11:55:31	greatbritain_mountains_canon_landscape_photography_eos_scotland_highlands_hiking_perthshire_5d_paysage_landschaft_2012_landschap_cairngorms_hillwalking_ecosse_munro_schiehallion_carnliath_beinnaghlo_c?√°rnnangabhar_br?√°ighcoirechruinnbhalgainbr?√°ighcoirec	56.798904	-3.832597	2	May	2012	2012-05-25
 7331635874	79565239@N08	2012-05-14_07:05:52	travel_scotland_unitedkingdom_blairatholl_countryroadsofscotland2012	56.771708	-3.855856	2	May	2012	2012-05-14
 7315045164	75356528@N03	2012-05-01_16:10:30	highlands_ballater_deeside_cairngormsnationalpark_craigendarroch_mountkeen_royaldeeside	57.0763	-3.042144	2	May	2012	2012-05-01
 7312918086	33434822@N07	2012-05-26_09:59:24	baby_daughter_photoblog_2012_photojournal_lilyeve_blogjournal	57.174873	-3.812701	2	May	2012	2012-05-26
@@ -2242,7 +2242,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 22294808591	90318937@N05	2012-08-25_15:19:53	trees_green_nature_water_clouds_contrast_forest_reflections_landscape_grey_scotland_nationalpark_sand_scenery_colours_heather_sony_tripod_smooth_shoreline_panoramic_calm_hills_loch_cairngorms_wideanglelens_scottishhighlands_cairngormnationalpark_sigmalen	57.24595	-3.697814	1	Aug	2012	2012-08-25
 15446652428	16759518@N08	2012-08-02_18:59:13	NA	57.320263	-3.60042	1	Aug	2012	2012-08-02
 14624730561	16759518@N08	2012-08-05_12:24:54	NA	57.200816	-3.829406	1	Aug	2012	2012-08-05
-14440395119	38235150@N00	2012-08-25_15:23:43	uk_greatbritain_trees_people_scotland_woods_leute_unitedkingdom_meadow_wiese_fair_celebration_fest_kilts_wald_b?Òume_highlandgames_schottland_feier_jahrmarkt_grossbritannien_kirtag_lonach_festplatz_schottenr?_cke_lonachgaterhing	57.202759	-3.068071	1	Aug	2012	2012-08-25
+14440395119	38235150@N00	2012-08-25_15:23:43	uk_greatbritain_trees_people_scotland_woods_leute_unitedkingdom_meadow_wiese_fair_celebration_fest_kilts_wald_b?√±ume_highlandgames_schottland_feier_jahrmarkt_grossbritannien_kirtag_lonach_festplatz_schottenr?_cke_lonachgaterhing	57.202759	-3.068071	1	Aug	2012	2012-08-25
 12600549315	7594803@N06	2012-08-15_08:27:43	panorama_mist_scotland_cairngorms_kingussie_cairngormnationalpark	57.085868	-4.048955	1	Aug	2012	2012-08-15
 12546095504	16759518@N08	2012-08-06_12:44:20	NA	57.200816	-3.829406	1	Aug	2012	2012-08-06
 12539837995	16759518@N08	2012-08-16_11:51:05	NA	57.200469	-3.828909	1	Aug	2012	2012-08-16
@@ -2355,8 +2355,8 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 7709328698	82767195@N08	2012-08-03_13:31:55	scotland_braemar_gbr_spittalofglenshee	56.890522	-3.433656	4	Aug	2012	2012-08-03
 7708877308	31680518@N04	2012-08-03_10:29:02	NA	57.006252	-3.93156	4	Aug	2012	2012-08-03
 24657447251	136403233@N02	2012-09-20_12:33:25	NA	57.159402	-3.873248	1	Sep	2012	2012-09-20
-18385330770	131985575@N04	2012-09-17_09:04:21	nationalpark_cairngorms_?Æcosse_parcnational	57.070213	-4.005228	1	Sep	2012	2012-09-17
-17162112857	24623944@N06	2012-09-20_15:12:28	scotland_highlands_europe_perthshire_hairycoo_vache_coo_barbel?Æs_ecosse_blairatholl_cocooning_barbedwires_canonef70200mmf4lisusm_canoneos7d_higlandcattle_nadcoz	56.767384	-3.843144	1	Sep	2012	2012-09-20
+18385330770	131985575@N04	2012-09-17_09:04:21	nationalpark_cairngorms_?¬Æcosse_parcnational	57.070213	-4.005228	1	Sep	2012	2012-09-17
+17162112857	24623944@N06	2012-09-20_15:12:28	scotland_highlands_europe_perthshire_hairycoo_vache_coo_barbel?¬Æs_ecosse_blairatholl_cocooning_barbedwires_canonef70200mmf4lisusm_canoneos7d_higlandcattle_nadcoz	56.767384	-3.843144	1	Sep	2012	2012-09-20
 15635243022	16759518@N08	2012-09-30_12:31:01	NA	57.254683	-3.713617	1	Sep	2012	2012-09-30
 15114512498	23666292@N07	2012-09-09_11:44:06	baby_animal_cat_scotland_unitedkingdom_kittens_places_kincraig_pallascat_andrewmcgavin	57.108323	-3.976235	1	Sep	2012	2012-09-09
 14625849034	16759518@N08	2012-09-18_11:08:51	NA	57.201177	-3.829714	1	Sep	2012	2012-09-18
@@ -2390,7 +2390,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8060074538	26237061@N07	2012-09-13_15:05:23	NA	56.764469	-3.845779	1	Sep	2012	2012-09-13
 8054274443	84257600@N06	2012-09-10_19:42:21	elementsorganizer	57.29533	-3.664025	1	Sep	2012	2012-09-10
 8054272163	84257600@N06	2012-09-12_15:04:10	elementsorganizer	57.173023	-3.654366	1	Sep	2012	2012-09-12
-8048224154	50434982@N00	2012-09-05_10:25:33	road_uk_landscape_scotland_europe_unitedkingdom_line_dotted_2012_tomintoul_ecosse_?Æcosse_youpidou_xpro1	57.216952	-3.304414	1	Sep	2012	2012-09-05
+8048224154	50434982@N00	2012-09-05_10:25:33	road_uk_landscape_scotland_europe_unitedkingdom_line_dotted_2012_tomintoul_ecosse_?¬Æcosse_youpidou_xpro1	57.216952	-3.304414	1	Sep	2012	2012-09-05
 8046864133	8833545@N03	2012-09-24_18:13:00	uk_scotland_aberdeenshire_royalguard_ballater_royalty_blackwatch_royals_royalfamily_cairngormsnationalpark_queenelizabethii_royaldeeside_balmoralcastle_deesideimages_royalwarrantvillage_1952to2012_setember2012_diamondjubileecairn	57.04848	-3.039751	1	Sep	2012	2012-09-24
 8045808034	32641182@N03	2012-09-07_15:33:48	scotland	57.042527	-4.148143	1	Sep	2012	2012-09-07
 8045214872	49748571@N00	2012-09-22_07:07:56	scotland_landscapes_agriculture_scotlandsleepercaledonianriverlandscapetraingreen	57.053242	-4.126911	2	Sep	2012	2012-09-22
@@ -2517,7 +2517,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8097906698	61004378@N04	2012-10-06_14:31:42	cairngorms_braemar	56.955	-3.406333	3	Oct	2012	2012-10-06
 8094329301	41040385@N06	2012-10-09_17:26:04	mountains_scotland_highlands_corbetts	57.052495	-3.932762	3	Oct	2012	2012-10-09
 8093659916	8833545@N03	2012-10-15_17:46:07	uk_scotland_aberdeenshire_ballater_cairngormsnationalpark_royaldeeside_pannanich_earlyautumnevening_lookingtowardspannanichandthegranitecityofaberdeensome45milesawaytotheeast	57.062763	-2.983592	3	Oct	2012	2012-10-15
-8090565894	80371818@N03	2012-10-09_11:31:51	blue_sky_lake_water_clouds_scotland_boat_highlands_aviemore_eos7d_‘«£flickraward‘«ÿ_lockinsh_efs1585mm	57.11772	-3.921968	3	Oct	2012	2012-10-09
+8090565894	80371818@N03	2012-10-09_11:31:51	blue_sky_lake_water_clouds_scotland_boat_highlands_aviemore_eos7d_√î√á¬£flickraward√î√á√ò_lockinsh_efs1585mm	57.11772	-3.921968	3	Oct	2012	2012-10-09
 8083756617	28168862@N07	2012-10-07_16:55:00	mountain_lake_water_walking_landscape_geotagged_scotland_nationalpark_aberdeenshire_hiking_hill_sunburst_loch_dri_cairngorms_deeside_muick_royaldeeside	56.930583	-3.161937	3	Oct	2012	2012-10-07
 8083384104	29383398@N07	2012-10-13_16:14:33	volvob10m_alexanderps_stagecoachhighland	57.331229	-3.607785	3	Oct	2012	2012-10-13
 8083120147	62158564@N00	2012-10-12_10:34:58	scotland_iansdigitalphotos_scotlandiansdigitalphotos	56.888752	-3.412284	3	Oct	2012	2012-10-12
@@ -2605,7 +2605,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8436637366	92810586@N07	2012-12-14_12:03:15	NA	57.188181	-3.829336	1	Dec	2012	2012-12-14
 8388245704	91121064@N08	2012-12-27_15:24:56	trees_green_rock_forest_scotland_highlands	56.777886	-3.933048	1	Dec	2012	2012-12-27
 8338382004	25650062@N04	2012-12-27_14:15:53	NA	56.942352	-3.153076	1	Dec	2012	2012-12-27
-8336410798	78657582@N00	2012-12-24_15:33:03	pink_blue_winter_sunset_orange_mountain_snow_yellow_scotland_highlands_purple_unitedkingdom_relaxing_scottish_summit_posts_aviemore_cairngorm_gloaming_snowboardboots_anc?·rngorm_nikevapen	57.121	-3.644667	1	Dec	2012	2012-12-24
+8336410798	78657582@N00	2012-12-24_15:33:03	pink_blue_winter_sunset_orange_mountain_snow_yellow_scotland_highlands_purple_unitedkingdom_relaxing_scottish_summit_posts_aviemore_cairngorm_gloaming_snowboardboots_anc?√°rngorm_nikevapen	57.121	-3.644667	1	Dec	2012	2012-12-24
 8330168179	43222683@N00	2012-12-24_12:13:35	horses_horse_animal_fauna_mammal_scotland_hills_strathspey_newtonmore_invernessshire_strone	57.07395	-4.117962	1	Dec	2012	2012-12-24
 8331222656	43222683@N00	2012-12-27_11:48:22	trees_sky_snow_silhouette_clouds_scotland_hills_newtonmore_drumochter	57.059081	-4.128414	1	Dec	2012	2012-12-27
 8329325523	19232369@N00	2012-12-30_17:39:03	uploaded_by=flickrmobile_flickriosapp_filter=nofilter	57.282833	-3.826167	1	Dec	2012	2012-12-30
@@ -2644,7 +2644,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8243458945	8833545@N03	2012-12-04_12:42:18	uk_scotland_aberdeenshire_lodge_1970s_princecharles_ballater_cairngormsnationalpark_royaldeeside_dukeofrothesay_hmthequeenmother_postiesleap_polivierfishing	57.051981	-3.055715	1	Dec	2012	2012-12-04
 8240471277	55160991@N02	2012-12-01_13:02:52	NA	56.991667	-4.311833	1	Dec	2012	2012-12-01
 8240401949	55160991@N02	2012-12-02_10:47:57	NA	56.992833	-4.306667	1	Dec	2012	2012-12-02
-8241193832	37180861@N03	2012-12-03_10:03:31	bridge_highlands_wintersnow_cairngorms_packhorsebridge_carrbridge_invernessshire_speyvalley_bridgesnow_oldpackhorsebridge_onlythebestofnature_drochaidch?·rr	57.284029	-3.815528	1	Dec	2012	2012-12-03
+8241193832	37180861@N03	2012-12-03_10:03:31	bridge_highlands_wintersnow_cairngorms_packhorsebridge_carrbridge_invernessshire_speyvalley_bridgesnow_oldpackhorsebridge_onlythebestofnature_drochaidch?√°rr	57.284029	-3.815528	1	Dec	2012	2012-12-03
 8238530209	23934786@N03	2012-12-02_22:15:05	tractor_trains_railways_aviemore_cairngorms_royalscotsman_strathspeyrailway_class37_luxurytrain	57.188657	-3.828735	1	Dec	2012	2012-12-02
 8236571765	28168862@N07	2012-12-01_10:48:06	winter_mountain_snow_scotland_wooden_nationalpark_hill_shed_perthshire_sunny_cairngorms_munro_beinn_carn_liath_aghlo	56.790091	-3.764406	1	Dec	2012	2012-12-01
 6549032245	8833545@N03	2012-12-20_08:34:45	uk_scotland_aberdeenshire_ballater_redskyatnight_cairngormsnationalpark_royaldeeside_redskyinthemorning_craigcoillich_deesideimages	57.047612	-3.031275	1	Dec	2012	2012-12-20
@@ -2932,9 +2932,9 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8698726687	22042327@N05	2013-04-26_16:42:05	NA	57.164802	-3.674325	2	Apr	2013	2013-04-26
 8697916009	71021965@N00	2013-04-01_19:43:06	scotland_braemar_ecosse	57.005666	-3.396667	2	Apr	2013	2013-04-01
 8699037928	71021965@N00	2013-04-02_09:22:01	scotland_braemar_ecosse	57.006	-3.3965	2	Apr	2013	2013-04-02
-8695845671	28617407@N03	2013-04-22_13:26:10	scotland_highlands_pitlochry_killiecrankie_?Æcosse	56.743498	-3.771915	2	Apr	2013	2013-04-22
+8695845671	28617407@N03	2013-04-22_13:26:10	scotland_highlands_pitlochry_killiecrankie_?¬Æcosse	56.743498	-3.771915	2	Apr	2013	2013-04-22
 8694299368	34451644@N07	2013-04-28_12:27:01	NA	56.8645	-3.215	2	Apr	2013	2013-04-28
-8693805502	75035433@N00	2013-04-27_17:16:45	lecht_g?·idhlig_ainmaite	57.201069	-3.248117	2	Apr	2013	2013-04-27
+8693805502	75035433@N00	2013-04-27_17:16:45	lecht_g?√°idhlig_ainmaite	57.201069	-3.248117	2	Apr	2013	2013-04-27
 8687968865	70887256@N00	2013-04-27_14:03:47	running_run_challenge_2013_balmoral10k_5x50	57.037247	-3.237378	2	Apr	2013	2013-04-27
 8688751432	49934221@N04	2013-04-16_11:46:50	NA	57.201201	-3.785473	2	Apr	2013	2013-04-16
 8686002929	77965992@N06	2013-04-27_11:45:13	lake_tree_wet_water_scotland_scenery_scenic_picasa_peaceful_loch_garten_cairngorms_lochgarten_hs30	57.240955	-3.705675	2	Apr	2013	2013-04-27
@@ -2948,7 +2948,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 8669560533	16412858@N08	2013-04-14_18:53:20	estate_glen_hedgehog_tanar_allachy	57.02903	-2.880949	2	Apr	2013	2013-04-14
 8669504411	16412858@N08	2013-04-22_00:15:46	estate_glen_tanar	57.049355	-2.872602	2	Apr	2013	2013-04-22
 8670586570	16412858@N08	2013-04-23_00:17:15	plane_scotland_estate_rich_glen_richard_fred_weaver_bi_1973_raf_curtis_pitts_s1s_tanar_pargeter_gparg	57.052588	-2.858633	2	Apr	2013	2013-04-23
-8669364507	27212056@N00	2013-04-20_14:42:52	scotland_highlands_alba_trains_furnicular_cairngormsnationalpark_a_gh?·idhealtachd_gaidhealtachd_rathadiarainn_r?øilebeinne_ancarngorm_paircn?·iseantaamhonaidhruaidh	57.133361	-3.67018	2	Apr	2013	2013-04-20
+8669364507	27212056@N00	2013-04-20_14:42:52	scotland_highlands_alba_trains_furnicular_cairngormsnationalpark_a_gh?√°idhealtachd_gaidhealtachd_rathadiarainn_r?¬øilebeinne_ancarngorm_paircn?√°iseantaamhonaidhruaidh	57.133361	-3.67018	2	Apr	2013	2013-04-20
 8668820091	92417733@N04	2013-04-20_16:37:00	wood_trees_bike_bicycle_mountainbike_cycle_mtb_boardwalk	57.007093	-4.307327	2	Apr	2013	2013-04-20
 8666757487	56332982@N00	2013-04-18_23:10:34	NA	57.058999	-3.5035	2	Apr	2013	2013-04-18
 8667848932	56332982@N00	2013-04-20_08:12:51	NA	56.765833	-3.848333	2	Apr	2013	2013-04-20
@@ -3193,7 +3193,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 9019786127	53725815@N00	2013-06-01_10:42:04	NA	56.881184	-3.410384	2	Jun	2013	2013-06-01
 9063708145	21611052@N02	2013-06-09_16:38:46	trip_travel_man_bus_festival_scotland_coach_tour_kirkliston_beulas_rsu498	57.007912	-3.397607	2	Jun	2013	2013-06-09
 9010012189	36539950@N00	2013-06-02_12:34:41	panorama	57.106116	-3.140008	3	Jun	2013	2013-06-02
-9009935409	36539950@N00	2013-06-08_17:24:33	cycling_lass_600_audax_deeside_?Æcosse_brevet_2013_deesidelass600	56.881115	-3.410933	3	Jun	2013	2013-06-08
+9009935409	36539950@N00	2013-06-08_17:24:33	cycling_lass_600_audax_deeside_?¬Æcosse_brevet_2013_deesidelass600	56.881115	-3.410933	3	Jun	2013	2013-06-08
 9009147577	28596900@N00	2013-06-08_18:12:42	mountains_scotland_nationalpark_scenery_hills_loch_avon_cairngorms_lochavon	57.108097	-3.608322	3	Jun	2013	2013-06-08
 9005258390	16412858@N08	2013-06-10_09:44:38	road_river_scotland_waterfall_mt_estate_aberdeenshire_aboyne_glen_mount_linn_ballater_cairngorms_keen_munro_muick_mounth_tanar	56.988277	-3.009461	3	Jun	2013	2013-06-10
 8997169407	61630188@N02	2013-06-08_12:21:21	aviemore_steamengine_strathspeyrailway_46512	57.188367	-3.828971	3	Jun	2013	2013-06-08
@@ -3218,12 +3218,12 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 25538989886	31929940@N00	2013-07-06_20:25:05	NA	56.856975	-3.093226	1	Jul	2013	2013-07-06
 22168324633	73645006@N00	2013-07-14_14:44:06	NA	56.911629	-2.918039	1	Jul	2013	2013-07-14
 18809786861	12061846@N00	2013-07-26_23:05:21	NA	57.312766	-3.625403	1	Jul	2013	2013-07-26
-16175783931	96740637@N03	2013-07-30_14:04:11	landscape_scotland__©??–≈_–«©–«•??	56.979716	-4.361414	1	Jul	2013	2013-07-30
+16175783931	96740637@N03	2013-07-30_14:04:11	landscape_scotland_√∞_√∞¬©√∞?√∞?√ê√Ö√∞_√ê√á√∞¬©√ê√á√∞¬•√∞?√∞?	56.979716	-4.361414	1	Jul	2013	2013-07-30
 15552341234	96740637@N03	2013-07-29_14:42:47	castle_scotland	57.040263	-3.229095	1	Jul	2013	2013-07-29
 15554082933	96740637@N03	2013-07-28_14:19:52	castle_scotland	57.141961	-3.164912	1	Jul	2013	2013-07-28
 15608978686	16759518@N08	2013-07-06_14:43:33	NA	57.200636	-3.829145	1	Jul	2013	2013-07-06
 14624721711	16759518@N08	2013-07-08_09:45:55	NA	57.200102	-3.828881	1	Jul	2013	2013-07-08
-13639788324	43659940@N00	2013-07-30_12:10:22	geotagged_scotland_unitedkingdom_gbr_inverdruie_badenochandstrathspeyward_geo_lat=5712022318_geo_lon=364456326_?Ægerardwijnsma	57.120223	-3.644563	1	Jul	2013	2013-07-30
+13639788324	43659940@N00	2013-07-30_12:10:22	geotagged_scotland_unitedkingdom_gbr_inverdruie_badenochandstrathspeyward_geo_lat=5712022318_geo_lon=364456326_?¬Ægerardwijnsma	57.120223	-3.644563	1	Jul	2013	2013-07-30
 13278861323	94939756@N06	2013-07-14_12:36:03	NA	57.099511	-3.157968	1	Jul	2013	2013-07-14
 12545869064	16759518@N08	2013-07-24_13:03:11	NA	57.200519	-3.829134	1	Jul	2013	2013-07-24
 12539729165	16759518@N08	2013-07-12_12:12:15	NA	57.093905	-3.919242	1	Jul	2013	2013-07-12
@@ -3274,7 +3274,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 9471050757	63219576@N08	2013-07-14_13:19:40	ir_lumix_scotland_unitedkingdom_infrared_pitagowan_topazdetail_lumixg2_panasoniclumixg2_lightroom5_supercolorir_topazbw	56.768355	-3.940059	3	Jul	2013	2013-07-14
 9462872676	94939756@N06	2013-07-16_06:28:17	scotland_farm_nikkor70300vr_nikond7000	57.186925	-2.995491	3	Jul	2013	2013-07-16
 9460864878	67337573@N08	2013-07-30_12:26:26	uk_cloud_mountains_clouds_squall_shower_scotland_hills_moray_tomintoul_cairngorms_banffshire	57.266513	-3.462924	3	Jul	2013	2013-07-30
-9447487639	8055500@N06	2013-07-18_14:08:52	scotland_aboyne_braemar_vereinigtesko?Ínigreich_upperdeesideanddonsideward	57.00588	-3.400685	3	Jul	2013	2013-07-18
+9447487639	8055500@N06	2013-07-18_14:08:52	scotland_aboyne_braemar_vereinigtesko?√™nigreich_upperdeesideanddonsideward	57.00588	-3.400685	3	Jul	2013	2013-07-18
 9446857040	8509521@N07	2013-07-24_13:24:04	cairngorms	57.116508	-3.643212	3	Jul	2013	2013-07-24
 9435400514	94437781@N05	2013-07-23_20:34:33	church_scotland_loch_hdr_kincraig_insh_lochinsh	57.120409	-3.923501	3	Jul	2013	2013-07-23
 9424257166	61901430@N02	2013-07-26_00:00:00	NA	57.096547	-3.157517	3	Jul	2013	2013-07-26
@@ -3469,7 +3469,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 9498323283	63570057@N06	2013-08-11_14:42:56	landscape_scotland_glenshee_dundee_pentaxkx_ericrobbniven	56.922964	-3.414173	4	Aug	2013	2013-08-11
 9492941359	16188748@N07	2013-08-10_13:34:39	NA	57.264477	-3.657363	4	Aug	2013	2013-08-10
 9490664721	28596900@N00	2013-08-10_16:50:48	mountain_macro_landscape_scotland_scenery_hill_glen_valley_macros_cairngorms_hillwalking_bagging_munro_bynackmore_strathnethy	57.13313	-3.61397	4	Aug	2013	2013-08-10
-9490550557	26679841@N00	2013-08-11_11:56:20	geotagged_scotland_europa_europe_escocia_aviemore_cairngorms_rothiemurchus_luciojos?Æmart?°nezgonz?_lez_luciojosemartinezgonzalez_luciokeywordsjos_geo_lat=571581783333333_geo_lon=379568333333333	57.158178	-3.795683	4	Aug	2013	2013-08-11
+9490550557	26679841@N00	2013-08-11_11:56:20	geotagged_scotland_europa_europe_escocia_aviemore_cairngorms_rothiemurchus_luciojos?¬Æmart?¬°nezgonz?_lez_luciojosemartinezgonzalez_luciokeywordsjos_geo_lat=571581783333333_geo_lon=379568333333333	57.158178	-3.795683	4	Aug	2013	2013-08-11
 9472814238	38267256@N03	2013-08-09_13:47:28	flowers_nikon_balmoral_nikond90	57.039054	-3.226493	4	Aug	2013	2013-08-09
 9472777292	42318062@N07	2013-08-05_10:01:15	NA	57.193213	-3.827487	4	Aug	2013	2013-08-05
 9472600966	42318062@N07	2013-08-03_17:41:42	stagecoachgroup	57.193213	-3.827487	5	Aug	2013	2013-08-03
@@ -3587,7 +3587,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 9740944990	40112784@N03	2013-09-13_12:52:13	autumn_scotland_none_olympus_september_fisheye_hdr_omd_cairngorms_75mm_m43_mft_samyang_photomatixpro_2013_em5_lochvrotachan	56.885751	-3.450565	5	Sep	2013	2013-09-13
 9736971656	52749298@N00	2013-09-13_14:44:33	uploaded_by=flickrmobile_flickriosapp_filter=nofilter	57.078333	-4.052834	5	Sep	2013	2013-09-13
 9730098089	52749298@N00	2013-09-12_14:55:21	uploaded_by=flickrmobile_flickriosapp_filter=nofilter	57.274166	-3.691501	5	Sep	2013	2013-09-12
-9730842144	41558538@N02	2013-09-12_10:13:24	uk_sky_building_tree_castle_history_loss_garden_scotland_blackwhite_unitedkingdom_meadow_wiese_castelo_slot_grad_schwarzweiss_schloss_castello_ch?Ûteau_garten_kale_’Éƒ_baum_geb?Òude_’_?˛ª__castillo_linna_hrad_’_?˛_Æ_schottland_v?_r_kasteel_istana_arce_ge	57.041196	-3.231568	5	Sep	2013	2013-09-12
+9730842144	41558538@N02	2013-09-12_10:13:24	uk_sky_building_tree_castle_history_loss_garden_scotland_blackwhite_unitedkingdom_meadow_wiese_castelo_slot_grad_schwarzweiss_schloss_castello_ch?√≥teau_garten_kale_√ï¬É√Ñ_baum_geb?√±ude_√ï_?√æ¬ª__castillo_linna_hrad_√ï_?√æ_¬Æ_schottland_v?_r_kasteel_istana_arce_ge	57.041196	-3.231568	5	Sep	2013	2013-09-12
 9727392719	58081616@N06	2013-09-05_09:23:22	crestedtit_lochgargen	57.244043	-3.705654	5	Sep	2013	2013-09-05
 9730599830	58081616@N06	2013-09-06_15:56:27	cairngorms_packhorsebridge_carrbridge_photomatixpro	57.283954	-3.816579	5	Sep	2013	2013-09-06
 9709818897	60583814@N07	2013-09-08_09:11:35	uploaded_by=flickrmobile_flickriosapp_filter=nofilter	57.043	-4.147834	5	Sep	2013	2013-09-08
@@ -3632,12 +3632,12 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 10830488985	108354933@N04	2013-10-02_16:29:13	flickrandroidapp_filter=none	57.048655	-3.043403	1	Oct	2013	2013-10-02
 10802889014	108354933@N04	2013-10-10_22:16:48	flickrandroidapp_filter=none	57.049122	-3.042289	1	Oct	2013	2013-10-10
 10801222445	32663845@N07	2013-10-27_11:00:32	autumn_countryside	57.326572	-3.604973	1	Oct	2013	2013-10-27
-10791805694	10601823@N06	2013-10-11_16:27:38	castle_scotland_loch_benmacdui_lochaneilein_craingorms_?Ædenap	57.147555	-3.822097	1	Oct	2013	2013-10-11
+10791805694	10601823@N06	2013-10-11_16:27:38	castle_scotland_loch_benmacdui_lochaneilein_craingorms_?¬Ædenap	57.147555	-3.822097	1	Oct	2013	2013-10-11
 10691302595	44999095@N07	2013-10-22_14:10:07	autumn_river_landscape_carr_highlands_autumncolours_cairngorms_carrbridge_cairngormsnationalpark_scottishhighlands_scottishlandscape_bridgeofcarr	57.28367	-3.81571	1	Oct	2013	2013-10-22
 10678715605	59052489@N00	2013-10-25_15:03:05	NA	57.071516	-4.027125	1	Oct	2013	2013-10-25
 10678657455	59052489@N00	2013-10-24_10:02:26	NA	57.283836	-3.815639	1	Oct	2013	2013-10-24
 10678852283	59052489@N00	2013-10-21_11:47:33	NA	57.221916	-3.300573	1	Oct	2013	2013-10-21
-10677262614	23737563@N00	2013-10-20_10:58:57	uk_scotland_europe_britishisles_unitedkingdom_britain_scottish_escocia_toadstool_aviemore_geolocation_uploadedtoflickr_chrissansbury_sansbury_chrisnixon_geocity_notnixon_exif_make=sony_geocountry_camera_make=sony_geostate_notnixoncom_exif_aperture=„_18_u	57.195133	-3.823755	1	Oct	2013	2013-10-20
+10677262614	23737563@N00	2013-10-20_10:58:57	uk_scotland_europe_britishisles_unitedkingdom_britain_scottish_escocia_toadstool_aviemore_geolocation_uploadedtoflickr_chrissansbury_sansbury_chrisnixon_geocity_notnixon_exif_make=sony_geocountry_camera_make=sony_geostate_notnixoncom_exif_aperture=√£_18_u	57.195133	-3.823755	1	Oct	2013	2013-10-20
 10633200664	24152389@N07	2013-10-03_16:33:19	scotland_schottland_vereinigtesk?_nigreich	56.981458	-4.360095	1	Oct	2013	2013-10-03
 10625530094	50777583@N07	2013-10-24_11:14:21	NA	56.772603	-3.931671	1	Oct	2013	2013-10-24
 10608256734	81795065@N00	2013-10-20_14:08:31	fallsofbruar	56.77867	-3.932712	1	Oct	2013	2013-10-20
@@ -3798,7 +3798,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 12179593613	77447228@N02	2014-01-27_15:46:56	winter_snow_scotland_highlands_hdr	56.961549	-3.403014	1	Jan	2014	2014-01-27
 12178921434	47430368@N08	2014-01-27_20:42:19	sky_mountains_night_stars_star_scotland_highlands_nikon_nightsky_dslr_tomintoul_cairngorm_nethybridge_grantownonspey_d7000_nikond7000_lightroom4	57.274692	-3.550879	1	Jan	2014	2014-01-27
 12170107875	41446650@N02	2014-01-25_11:31:39	mountain_bike_scotland_trail_highland_mtb_cairngorm_laggan_wolftrax	56.999014	-4.303133	1	Jan	2014	2014-01-25
-12151440784	61443311@N06	2014-01-10_12:11:20	yak_animal_scotland_unitedkingdom_outdoor_ox_bosgrunniens_dier_jak_esc??cia_schottland_yack_reinounido_schotland_scozia_?Æcosse_“_?“_?“‚‚“‚Í“‚Æ“‚?“‚__bovid_ﬁˇ_µ·?ﬁˇ°_verenigdkoninkrijk_vereinigtek?_nigreich_b??vido_coth5_mygearandme_iaque_bromrund_grunzo	57.110352	-3.968709	1	Jan	2014	2014-01-10
+12151440784	61443311@N06	2014-01-10_12:11:20	yak_animal_scotland_unitedkingdom_outdoor_ox_bosgrunniens_dier_jak_esc??cia_schottland_yack_reinounido_schotland_scozia_?¬Æcosse_√í_?√í_?√í√¢√¢√í√¢√™√í√¢¬Æ√í√¢?√í√¢__bovid_√û√ø_¬µ√°?√û√ø¬°_verenigdkoninkrijk_vereinigtek?_nigreich_b??vido_coth5_mygearandme_iaque_bromrund_grunzo	57.110352	-3.968709	1	Jan	2014	2014-01-10
 12141579863	62260691@N04	2014-01-25_14:58:36	NA	57.166966	-3.719558	1	Jan	2014	2014-01-25
 12034825804	39148194@N07	2014-01-19_17:44:13	NA	56.81585	-3.600339	1	Jan	2014	2014-01-19
 12035164326	39148194@N07	2014-01-16_20:35:57	NA	56.81585	-3.600339	1	Jan	2014	2014-01-16
@@ -3821,7 +3821,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 11801075946	50953837@N07	2014-01-04_15:43:43	NA	57.102736	-3.271801	1	Jan	2014	2014-01-04
 11764035653	42548354@N04	2014-01-04_11:54:24	scotland_scenery_climbing_highland_mixedclimbing_cairngorms_honeypot_coireantsneachda_messofpottage	57.108888	-3.655834	1	Jan	2014	2014-01-04
 11758840864	31680518@N04	2014-01-04_11:13:24	NA	57.085285	-2.924916	1	Jan	2014	2014-01-04
-11757800313	32109534@N02	2014-01-02_14:41:35	uk_building_caf?Æ_shop_restaurant_scotland_highlands_cafe_unitedkingdom_britain_glen_highland_glenmore	57.167741	-3.697294	1	Jan	2014	2014-01-02
+11757800313	32109534@N02	2014-01-02_14:41:35	uk_building_caf?¬Æ_shop_restaurant_scotland_highlands_cafe_unitedkingdom_britain_glen_highland_glenmore	57.167741	-3.697294	1	Jan	2014	2014-01-02
 11720788056	29383398@N07	2014-01-02_13:55:52	volvob10m_alexanderps_plaxtonpremiereinterurban_stagecoachhighland	57.193104	-3.827716	1	Jan	2014	2014-01-02
 11693655235	11118018@N00	2014-01-01_11:27:06	scotland_walk_cairngorms_lochmorlich_meallabhuachaille	57.181916	-3.681806	1	Jan	2014	2014-01-01
 16855608569	98776488@N00	2014-02-14_13:02:42	NA	56.977025	-4.235864	1	Feb	2014	2014-02-14
@@ -3922,10 +3922,10 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 13494841035	31680518@N04	2014-03-29_11:07:14	NA	57.055068	-3.047386	1	Mar	2014	2014-03-29
 13494821713	119955613@N07	2014-03-29_14:42:22	uploaded_by=flickrmobile_colorvibefilter_flickriosapp_filter=colorvibe	56.886605	-3.379523	1	Mar	2014	2014-03-29
 13491801484	56643468@N00	2014-03-28_13:47:11	NA	56.830063	-4.217341	1	Mar	2014	2014-03-28
-13463664425	41558538@N02	2014-03-28_11:00:16	house_building_tree_texture_photoshop_landscape_scotland_weide_sheep_unitedkingdom_haus_highland_pasture_landschaft_baum_geb?Òude_hdr_schottland_schaf_grossbritannien_glenlivet_greatbritian_hochland_vereinigtesk?_nigreich_canoneos600d_“_?“_?“‚‚“‚Í“‚Æ“‚?“	57.337287	-3.331646	1	Mar	2014	2014-03-28
+13463664425	41558538@N02	2014-03-28_11:00:16	house_building_tree_texture_photoshop_landscape_scotland_weide_sheep_unitedkingdom_haus_highland_pasture_landschaft_baum_geb?√±ude_hdr_schottland_schaf_grossbritannien_glenlivet_greatbritian_hochland_vereinigtesk?_nigreich_canoneos600d_√í_?√í_?√í√¢√¢√í√¢√™√í√¢¬Æ√í√¢?√í	57.337287	-3.331646	1	Mar	2014	2014-03-28
 13432180843	48170150@N07	2014-03-26_11:52:04	from_bridge_around_cairngorms_the_neth	57.298402	-3.772425	1	Mar	2014	2014-03-26
 13432400394	100345727@N03	2014-03-26_18:13:35	NA	57.257775	-3.387469	1	Mar	2014	2014-03-26
-13420470263	41558538@N02	2014-03-26_07:37:07	bridge_tree_history_texture_creek_photoshop_landscape_puente_scotland_highlands_unitedkingdom_hill_meadow_wiese_medieval_ponte_bach_most_brook_bro_brug_br??cke_landschaft_baum_hdr_h?°d_schottland_akwa_middleage_geschichte_zubia_µÆ__jembatan_tulay_h??gel_	57.092869	-3.165339	1	Mar	2014	2014-03-26
+13420470263	41558538@N02	2014-03-26_07:37:07	bridge_tree_history_texture_creek_photoshop_landscape_puente_scotland_highlands_unitedkingdom_hill_meadow_wiese_medieval_ponte_bach_most_brook_bro_brug_br??cke_landschaft_baum_hdr_h?¬°d_schottland_akwa_middleage_geschichte_zubia_¬µ¬Æ__jembatan_tulay_h??gel_	57.092869	-3.165339	1	Mar	2014	2014-03-26
 13392358693	29383398@N07	2014-03-24_15:25:07	volvob13r_plaxtonpanther2	57.188274	-3.829314	1	Mar	2014	2014-03-24
 13388423604	119252778@N08	2014-03-24_13:41:25	red	56.911526	-2.917728	1	Mar	2014	2014-03-24
 13361716453	56877039@N08	2014-03-23_19:28:57	square_squareformat_iphoneography_instagramapp_uploaded_by=instagram_foursquare_venue=522728a111d2dce72b9b3d7f	57.084342	-2.918871	1	Mar	2014	2014-03-23
@@ -4047,7 +4047,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 13649068815	94429134@N07	2014-04-05_09:59:46	walking_scotland_ballater_lochmuick	56.934888	-3.166653	4	Apr	2014	2014-04-05
 13608241393	94289138@N04	2014-04-03_16:24:34	trees_winter_bw_cloud_white_mist_black_mountains_tree_scotland_highlands_sony_photographing_nex	56.804693	-4.089844	4	Apr	2014	2014-04-03
 24164488860	104000687@N08	2014-05-07_13:09:34	camera_uk_trees_plants_colour_green_nature_landscape_scotland_woods_europe_forrest_unitedkingdom_britain_perthshire_gb_roads_hdr_estates_carttrack_silverybark	56.782145	-3.866264	1	May	2014	2014-05-07
-23033205833	118989107@N06	2014-05-27_20:20:16	park_trees_green_scotland_alley_perspective_gr??n_avenue_b?Òume_perspektive_schottland_allee_blaircastle_unsharpness_unsch?Òrfe_blairatholl	56.770794	-3.851716	1	May	2014	2014-05-27
+23033205833	118989107@N06	2014-05-27_20:20:16	park_trees_green_scotland_alley_perspective_gr??n_avenue_b?√±ume_perspektive_schottland_allee_blaircastle_unsharpness_unsch?√±rfe_blairatholl	56.770794	-3.851716	1	May	2014	2014-05-27
 22668118177	135420200@N02	2014-05-21_13:34:17	unterwegs_gb_aviemore_schottland_colorkey_fotoeigenschaften_grosbritannienundnordirland_schottland2014	57.145572	-3.823775	1	May	2014	2014-05-21
 21869321351	11451860@N08	2014-05-25_14:32:16	perthshire_highlandgames_blairatholl_instagram_blairathollgathering	56.77313	-3.850853	1	May	2014	2014-05-25
 21467099176	38608514@N00	2014-05-02_12:31:23	blue_color_colour_green_train_colorful_feathers_feather_peacock_iridescent_iridescence_peafowl_paon_indianpeacock	56.774472	-3.856887	1	May	2014	2014-05-02
@@ -4055,10 +4055,10 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 15448132098	16759518@N08	2014-05-05_11:54:34	NA	57.096316	-3.952517	1	May	2014	2014-05-05
 15436754488	16759518@N08	2014-05-03_10:07:02	NA	57.200705	-3.829012	1	May	2014	2014-05-03
 15620162411	16759518@N08	2014-05-19_10:21:33	NA	57.095113	-3.948042	1	May	2014	2014-05-19
-15360245820	91779914@N00	2014-05-17_13:13:43	scotland_highlands_alba_scottish_police_escocia_highland_scotia_szkocja_caledonia_conner_esc??cia_schottland_schotland_ecosse_scozia_scottishhighlands_skottland_skotlanti_constabulary_skotland_Œ_Œ_Œ_ŒˇŒ£Œ·Œ__highlandsofscotland_ﬁ_≈µ·?’_?_“_?“_?“‚‚“‚Í“‚Æ“	57.33266	-3.605597	1	May	2014	2014-05-17
+15360245820	91779914@N00	2014-05-17_13:13:43	scotland_highlands_alba_scottish_police_escocia_highland_scotia_szkocja_caledonia_conner_esc??cia_schottland_schotland_ecosse_scozia_scottishhighlands_skottland_skotlanti_constabulary_skotland_√é_√é_√é_√é√ø√é¬£√é√°√é__highlandsofscotland_√û_√Ö¬µ√°?√ï_?_√í_?√í_?√í√¢√¢√í√¢√™√í√¢¬Æ√í	57.33266	-3.605597	1	May	2014	2014-05-17
 15080260128	44490310@N06	2014-05-30_14:48:14	whitewatersledging	57.111097	-3.896192	1	May	2014	2014-05-30
 15063246829	119605929@N03	2014-05-04_12:01:38	scotland_highlands_bottle_highland_whisky_scotch_distillery_schottland_flaschen_speyside_glenlivet_destillerie	57.342891	-3.339371	1	May	2014	2014-05-04
-14810080197	41263047@N08	2014-05-23_14:29:04	trees_lake_clouds_canon_eos_see_scotland_waterfall_spring_rocks_wasserfall_perthshire_wolken_b?Òume_hdr_schottland_felsen_fr??hjahr_likeinadream_5dmarkii_fallsofburar	56.779277	-3.931734	1	May	2014	2014-05-23
+14810080197	41263047@N08	2014-05-23_14:29:04	trees_lake_clouds_canon_eos_see_scotland_waterfall_spring_rocks_wasserfall_perthshire_wolken_b?√±ume_hdr_schottland_felsen_fr??hjahr_likeinadream_5dmarkii_fallsofburar	56.779277	-3.931734	1	May	2014	2014-05-23
 14807125318	54758495@N00	2014-05-16_10:09:27	people_wall_scotland_fireplace_funny_interior_hats_inside_scots_cairngorms_sota_bothy_project365_ryvoan_project3652014	57.183612	-3.645674	1	May	2014	2014-05-16
 14825790112	89837536@N04	2014-05-09_23:33:18	NA	57.332256	-3.649477	1	May	2014	2014-05-09
 14803143106	89837536@N04	2014-05-10_00:23:02	NA	57.332256	-3.649477	1	May	2014	2014-05-10
@@ -4081,7 +4081,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 14295897028	16188748@N07	2014-05-03_15:53:16	NA	57.289341	-3.667631	1	May	2014	2014-05-03
 14427005653	109460169@N08	2014-05-16_15:49:52	NA	56.827808	-4.214964	1	May	2014	2014-05-16
 14368302174	24858431@N07	2014-05-26_16:09:46	canon_scotland_unitedkingdom_6d_365project_ef1635mmf28liiusm_canon6d	56.981319	-4.360703	1	May	2014	2014-05-26
-14366804634	35421778@N03	2014-05-25_15:00:16	braemar_?Æcosse_royaumeuni	56.96503	-3.400089	1	May	2014	2014-05-25
+14366804634	35421778@N03	2014-05-25_15:00:16	braemar_?¬Æcosse_royaumeuni	56.96503	-3.400089	1	May	2014	2014-05-25
 14351599231	15522995@N08	2014-05-01_11:36:41	road_uk_longexposure_greatbritain_trip_travel_blue_sky_lake_mountains_nature_water_clouds_landscape_scotland_nationalpark_highlands_rocks_europe_day_quiet_cloudy_unitedkingdom_roadtrip_grampians_filter_aviemore_schottland_cairngorms_2014_canon6d_grosbrit	57.168413	-3.707287	1	May	2014	2014-05-01
 14352330455	50976706@N04	2014-05-05_13:00:43	NA	57.334777	-3.616464	1	May	2014	2014-05-05
 14347081274	8703922@N02	2014-05-30_10:44:41	uploaded_by=flickrmobile_flickriosapp_filter=nofilter	56.990166	-3.531834	1	May	2014	2014-05-30
@@ -4335,7 +4335,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 14636511262	38267256@N03	2014-07-12_00:11:44	night_landscape_lowlight_nikon_skys_tomintoul_nikond90	57.251195	-3.378811	4	Jul	2014	2014-07-12
 14634721655	101941558@N08	2014-07-02_12:09:39	NA	56.945869	-3.300017	4	Jul	2014	2014-07-02
 14444563367	57795202@N02	2014-07-08_15:26:00	uk_scotland_highlands_whiskey_roadtrip_whisky_distillery_dalwhinnie	56.931781	-4.24234	4	Jul	2014	2014-07-08
-14629850725	27681741@N06	2014-07-11_11:00:08	scotland_highlands_alba_escocia_alban_szkocja_esc??cia_schottland_schotland_ecosse_invernessshire_lagan_scozia_laggan_skottland_skotlanti_skotland_broskos_esc??cia_sk??cia_albain_isko?_ya_–Í•–__?¢?©–≈_rawtherapee_§‚??§_§_?ª??_g?·idhealtachd_sco?˙ia	57.013636	-4.274475	4	Jul	2014	2014-07-11
+14629850725	27681741@N06	2014-07-11_11:00:08	scotland_highlands_alba_escocia_alban_szkocja_esc??cia_schottland_schotland_ecosse_invernessshire_lagan_scozia_laggan_skottland_skotlanti_skotland_broskos_esc??cia_sk??cia_albain_isko?_ya_√ê√™√∞¬•√ê_√∞_√∞?√∞¬¢√∞?√∞¬©√ê√Ö_rawtherapee_¬§√¢??¬§_¬§_?¬ª??_g?√°idhealtachd_sco?√∫ia	57.013636	-4.274475	4	Jul	2014	2014-07-11
 14434024428	52044741@N00	2014-07-10_08:17:40	NA	57.188296	-3.829099	4	Jul	2014	2014-07-10
 14611938331	52044741@N00	2014-07-09_21:17:58	NA	57.188296	-3.829099	4	Jul	2014	2014-07-09
 14604284641	28429603@N02	2014-07-07_17:41:01	bw_white_black_water_silver_waterfall_aberdeenshire_july_olympus_burn_pro_28_vat_stitched_f28_q3_omd_2014_em1_ptgui_m43_1240mm_efex_mirrorless_ovat_201407_vertorama_microfourthirds_mzuiko_20140707	57.083969	-2.950381	4	Jul	2014	2014-07-07
@@ -4376,7 +4376,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 15244755788	103475397@N03	2014-08-23_17:56:07	flickrandroidapp_filter=none	56.775416	-3.867245	1	Aug	2014	2014-08-23
 15400434512	91221563@N07	2014-08-16_16:28:12	sky_nature_field_clouds_rural_landscape_golden_scotland_countryside_aberdeenshire_outdoor_glenbuchat_d7000	57.199078	-3.07456	1	Aug	2014	2014-08-16
 15213940857	100311204@N07	2014-08-18_10:12:07	trees_summer_sky_rain_landscape_scotland_highlands_heather_sony_hills_drizzle_hotshot_sonyalpha65	57.290291	-3.79863	1	Aug	2014	2014-08-18
-15320115532	22439059@N07	2014-08-01_16:59:23	bird_scotland_oiseau_europeanrobin_passeriformes_?Æcosse_rougegorgefamilier_muscicapidae	56.774257	-3.934693	1	Aug	2014	2014-08-01
+15320115532	22439059@N07	2014-08-01_16:59:23	bird_scotland_oiseau_europeanrobin_passeriformes_?¬Æcosse_rougegorgefamilier_muscicapidae	56.774257	-3.934693	1	Aug	2014	2014-08-01
 15040654750	16188748@N07	2014-08-29_22:57:12	NA	57.18889	-3.828649	1	Aug	2014	2014-08-29
 15038325548	16188748@N07	2014-08-27_18:48:03	NA	57.289341	-3.667631	1	Aug	2014	2014-08-27
 15216461611	16188748@N07	2014-08-26_21:02:38	NA	57.289341	-3.667631	1	Aug	2014	2014-08-26
@@ -4611,7 +4611,7 @@ id	owner	datetaken	tags	latitude	longitude	page	month	year	dateonly
 15363968788	29383398@N07	2014-10-16_16:53:37	berkhof_volvob10m	57.18832	-3.829421	2	Oct	2014	2014-10-16
 15358187018	48874448@N07	2014-10-04_15:19:37	river_dee	57.015041	-3.402285	2	Oct	2014	2014-10-04
 15350495608	8833545@N03	2014-10-12_08:30:52	uk_scotland_aberdeenshire_ballater_cairngormsnationalpark_royaldeeside_earlymorningmist_craigvallich	57.041885	-3.034207	2	Oct	2014	2014-10-12
-15343379610	26045503@N05	2014-10-09_16:05:03	bw_church_grave_decay_dramatic_olympus_gravestone_remains_schottland_blairatholl_grosbritannienundnordirland_omdem5_mzuikopro_mzuikodigitaled12‘«_40mm128	56.774075	-3.857487	2	Oct	2014	2014-10-09
+15343379610	26045503@N05	2014-10-09_16:05:03	bw_church_grave_decay_dramatic_olympus_gravestone_remains_schottland_blairatholl_grosbritannienundnordirland_omdem5_mzuikopro_mzuikodigitaled12√î√á_40mm128	56.774075	-3.857487	2	Oct	2014	2014-10-09
 15516117291	94131069@N03	2014-10-12_14:05:58	NA	56.905463	-3.3876	2	Oct	2014	2014-10-12
 15330783947	28429603@N02	2014-10-11_11:37:50	uk_panorama_water_landscape_scotland_waterfall_aberdeenshire_widescreen_olympus_panoramic_burn_pro_28_vat_scape_stitched_f28_omd_2014_em1_ptgui_m43_q4_1240mm_mirrorless_ovat_microfourthirds_mzuiko_201410_20141011	57.084083	-2.950209	2	Oct	2014	2014-10-11
 15471594376	10107708@N05	2014-10-10_11:45:06	camera_morning_trees_mist_forest_woodland_river_one_scotland_highlands_woods_phone_scottish_filter_m8_spey_htc_strathspey_speyside_grantownonspey_grantown_beachen_glenbeg_iphoneography_dreggie_snapseed_htcone_htconem8	57.329319	-3.608818	2	Oct	2014	2014-10-10
