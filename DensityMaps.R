@@ -1,6 +1,9 @@
-#######################################################
-###################Spatio-temporal analysis
-#######################################################
+###############################################
+# R code to make density maps of Flickr data
+# created by Francesca Mancini
+# depends on sealwatching.txt, Whale&Dolphinwatching.txt, birdwatchingmined.txt, UK_Outline_WGS84.shp and EdinGlas.shp
+# last modified 04/11/2016
+###############################################
 library(lubridate)
 library(rgdal)
 library(ggplot2)
