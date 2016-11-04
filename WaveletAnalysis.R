@@ -1,3 +1,10 @@
+###############################################
+# R code to conduct wavelet analysis
+# created by Francesca Mancini
+# depends on CairngormsFVD.txt and CairngormsSVD.txt
+# last modified 04/11/2016
+###############################################
+
 library(lubridate)
 library(zoo)
 library(WaveletComp)
