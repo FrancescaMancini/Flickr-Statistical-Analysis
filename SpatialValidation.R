@@ -1,3 +1,10 @@
+###############################################
+# R code to conduct spatial validation of Flickr data
+# created by Francesca Mancini
+# depends on flickr_survey_pop20KM.txt, flickr_survey_pop10KM.txt and flickr_survey_pop5KM.txt
+# last modified 04/11/2016
+###############################################
+
 library(statmod)
 library(gstat)
 library(sp)
@@ -194,7 +201,7 @@ pred.20k.bin<-visreg(bin2.2,"survey",scale="response",plot=F)
 #####################################################
 ############validation 10km
 #####################################################
-fs10km<-read.table("datasets\\flickr_survey_pop10KM.txt",header=T)
+fs10km<-read.table("flickr_survey_pop10KM.txt",header=T)
 fs10km$flickrbin<-NULL
 for(i in 1:length(fs10km$flickr)){
    ifelse(fs10km$flickr[i]>=1,fs10km$flickrbin[i]<-1,fs10km$flickrbin[i]<-0)}
@@ -355,7 +362,7 @@ pred.10k.bin<-visreg(bin.10k.2.2,"survey",scale="response",plot=F)
 ##########validation 5km
 #######################################
 
-fs5km<-read.table("datasets\\flickr_survey_pop5KM.txt",header=T)
+fs5km<-read.table("flickr_survey_pop5KM.txt",header=T)
 fs5km$flickrbin<-NULL
 for(i in 1:length(fs5km$flickr)){
    ifelse(fs5km$flickr[i]>=1,fs5km$flickrbin[i]<-1,fs5km$flickrbin[i]<-0)}
