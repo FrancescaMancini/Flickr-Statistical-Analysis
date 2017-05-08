@@ -69,6 +69,7 @@ E.my.w = analyze.wavelet(my.data, "x",loess.span = 0, dt = 1, make.pval = T, n.s
 #and plot
 tiff(filename="EmpWVSpectrum.tiff",width=3000,height=3000,res=300)
 par(mar=c(6,4,3,1))
+source("wt.image.modified.R")
 wt.image.modified(E.my.w, main="Empirical time series",show.date=T,timelab="",legend.params = list(lab = "wavelet power levels",width=1, mar = 10))
 dev.off()
 
@@ -80,6 +81,7 @@ make.pval = T, n.sim = 100)
 #and plot
 tiff(filename="FlickrWVSpectrum.tiff",width=3000,height=3000,res=300)
 par(mar=c(6,4,3,1))
+source("wt.image.modified.R")
 wt.image.modified(F.my.w, main="Flickr time series",show.date=T,timelab="",legend.params = list(lab = "wavelet power levels",width=1, mar = 10))
 dev.off()
 
@@ -92,18 +94,24 @@ dt = 1, make.pval = T, n.sim = 100)
 #and plot
 tiff(filename="CrossCorr.tiff",width=3000,height=3000,res=300)
 par(mar=c(6,4,3,1))
-wc.image.modified(my.wc, which.image = "wc",legend.params = list(lab = "wavelet coherence",width=1, mar = 10),
-timelab = "", periodlab = "period (months)",show.date= T)
+source("wc.image.modified.R")
+wc.image.modified(my.wc, which.image = "wc",
+                  legend.params = list(lab = "wavelet coherence",width=1, mar = 10),
+                  timelab = "", periodlab = "period (months)",show.date= T, 
+                  color.key = "i",  
+                  color.palette = "rainbow(n.levels, start = 0, end = .8, s = 0.9)")
 dev.off()
 
-names(my.wc$series)[2:3]<-c("Empirical","Flickr")      #change names of time series in wc object
+names(my.wc$series)[2:3]<-c("SVD","FVD")      #change names of time series in wc object
 
 #plot phase difference for the significant period in coherency
 tiff(filename="PhaseDiff.tiff",width=3000,height=3000,res=300)
 par(mar=c(6,6,3,1))
-wc.sel.phases.modified(my.wc, sel.lower = 8, sel.upper = 16,only.sig = T, siglvl = 0.05, show.date = T,
-which.sig = "wc",legend.coords = "topright", legend.horiz = F,
-phaselim = c(-pi,+2*pi), main = "", sub = "",timelab="")
+source("wc.sel.phases.modified.R")
+wc.sel.phases.modified(my.wc, sel.lower = 8, sel.upper = 16,only.sig = T, 
+                       siglvl = 0.05, show.date = T, phase.col = c("darkorange", "darkorchid"),
+                       which.sig = "wc",legend.coords = "topright", legend.horiz = F,
+                       phaselim = c(-pi,+2*pi), main = "", sub = "",timelab="")
 dev.off()
 
 
