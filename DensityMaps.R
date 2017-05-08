@@ -55,7 +55,7 @@ WDwatching$date<-parse_date_time(WDwatching$dateonly,"dmy")  #transform characte
 
 
 #read shapefile of UK coastline
-UK<-readOGR(dsn= "UK_Outline_WGS84.shp", layer="UK_Outline_WGS84")
+UK<-readOGR(dsn= "Scotland_polygon//Scotland.shp", layer="Scotland")
 
 
 UK<-spTransform(UK,CRS("+proj=longlat +datum=WGS84"))             #transform geographic coordinates
@@ -68,7 +68,7 @@ UK.Df<-fortify(UK, region="id")
 
 bird.points<-fortify(birdwatch)
 
-plot.years <- ggplot(data=bird.points,aes(x=longitude, y=latitude))+
+plot.years <- ggplot(data=bird.points,aes(x=longitude, y=latitude)) +
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
              color="black", fill="gray82") + coord_fixed() +
               coord_map(orientation = NULL, 
@@ -76,17 +76,23 @@ plot.years <- ggplot(data=bird.points,aes(x=longitude, y=latitude))+
               (max(bird.points$longitude)+0.05)), 
               ylim = c((min(bird.points$latitude)-0.05),
               (max(bird.points$latitude)+0.05))) +
-              geom_point(color="dodgerblue4",size=1,shape=".")+
-             stat_density2d(aes(x = longitude, 
-             y = latitude,  fill = ..level.., alpha = ..level..), 
-             geom = "polygon", colour = "grey95",size=0.3) + 
+              geom_point(data=bird.points,aes(x=longitude, y=latitude),
+              color="dodgerblue4",size=0.5)+
+             stat_density2d(aes(x = longitude, y = latitude,
+              fill = ..level.., alpha = ..level..), geom = "polygon") + 
              scale_fill_gradient(low = "yellow", high = "red") +
              scale_alpha(range = c(.25, .5), guide = FALSE) +
              facet_wrap(~ year)+
-             theme(text=element_text(size=18),legend.position = c(.9, .15))
+             theme(axis.title.x=element_blank(), axis.text.x=element_blank(),  # don't display x and y axes labels, titles and tickmarks 
+                   axis.ticks.x=element_blank(),axis.title.y=element_blank(),   
+                   axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+                   text=element_text(size=18),legend.position = c(.9, .15),
+                   panel.grid.major = element_blank(),                            # eliminates grid lines from background
+                   panel.background = element_blank()) 
         
-
+tiff(filename="BirdDens.tiff",width=3000,height=3000,res=300)
 plot.years
+dev.off()
 
 #plot density per season
 bird.points$Season <- factor(quarters(bird.points$date), 
@@ -94,7 +100,7 @@ bird.points$Season <- factor(quarters(bird.points$date),
                       labels = c("winter", "spring", "summer", "fall"))
 
 
-plot_2005<- ggplot(data=bird.points[bird.points$year=="2005",],
+plot_2009<- ggplot(data=bird.points[bird.points$year=="2009",],
             aes(x=longitude, y=latitude))+
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
              color="black", fill="gray82") + coord_fixed() +
@@ -103,29 +109,30 @@ plot_2005<- ggplot(data=bird.points[bird.points$year=="2005",],
               (max(bird.points$longitude)+0.05)), 
               ylim = c((min(bird.points$latitude)-0.05),
               (max(bird.points$latitude)+0.05))) +
-              geom_point(color="dodgerblue4",size=1,shape=".")+ 
-             stat_density2d(aes(x = longitude, 
-             y = latitude,  fill = ..level.., alpha = ..level..), 
-             geom = "polygon", colour = "grey95") + 
+              geom_point(color="dodgerblue4", size=0.5)+ 
+             stat_density2d(aes(x = longitude, y = latitude,  
+             fill = ..level.., alpha = ..level..), geom = "polygon") + 
              scale_fill_gradient(low = "yellow", high = "red") +
              scale_alpha(range = c(.25, .75), guide = FALSE) +
-             ggtitle("Birdwatching in Scotland in 2005 by season") +
              facet_wrap(~ Season)+
-             theme(text=element_text(size=20))
+            theme(axis.title.x=element_blank(), axis.text.x=element_blank(),  # don't display x and y axes labels, titles and tickmarks 
+            axis.ticks.x=element_blank(),axis.title.y=element_blank(),   
+            axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+            text=element_text(size=18),
+            panel.grid.major = element_blank(),                            # eliminates grid lines from background
+            panel.background = element_blank())
         
-                                                     
-plot_2005  
-
+tiff(filename="BirdDensSeason.tiff",width=3000,height=3000,res=300)                                                     
+plot_2009  
+dev.off()
 
 #####################################################
 ##plot density excluding Edinburgh and Glasgow
 #####################################################
 cities<-readOGR(dsn= "EdinGlas.shp", layer="EdinGlas")                #load shapefile with Edinburgh and Glasgow boundaries
+bird.points <- birdwatch
 
-writePointsShape(birdwatch, "BirdwatchRural")                         #make points shapefile
-
-
-birdwatch <- readShapePoints("BirdwatchRural.shp")                    #read the shapefile
+coordinates(birdwatch) <- c("longitude","latitude")                   #make object spatial
 proj4string(birdwatch) <- CRS("+proj=longlat +datum=WGS84")           #and project
 
 #transform polygon
@@ -137,23 +144,23 @@ proj4string(cities) <- CRS("+proj=longlat +datum=WGS84")
 incities2<-over(SpatialPoints(birdwatch),SpatialPolygons(cities@polygons),
           returnlist=TRUE)                                                    #identify points in cities boundaries
 
-birdwatch_sub<-birdwatch[-which(!is.na(incities2)),]                          #exclude from dataset
+bird.points<-bird.points[-which(!is.na(incities2)),]                          #exclude from dataset
 
-birdwatch_sub$id<-as.character(birdwatch$id)
-birdwatch_sub$owner<-as.character(birdwatch$owner)
-birdwatch_sub$datetaken<-as.character(birdwatch$datetaken)
-birdwatch_sub$tags<-as.character(birdwatch$tags)
-birdwatch_sub$year<-as.factor(birdwatch$year)
-birdwatch_sub$month<-factor(birdwatch$month,levels=c("Jan","Feb","Mar","Apr","May",
-                         "Jun","Jul","Aug","Sep","Oct","Nov","Dec"))
+#birdwatch@data$id<-as.character(birdwatch@data$id)
+#birdwatch_sub$owner<-as.character(birdwatch$owner)
+#birdwatch_sub$datetaken<-as.character(birdwatch$datetaken)
+#birdwatch_sub$tags<-as.character(birdwatch$tags)
+#birdwatch_sub$year<-as.factor(birdwatch$year)
+#birdwatch_sub$month<-factor(birdwatch$month,levels=c("Jan","Feb","Mar","Apr","May",
+#                         "Jun","Jul","Aug","Sep","Oct","Nov","Dec"))
 
-birdwatch_sub$date<-parse_date_time(birdwatch$dateonly,"dmy")  #transform character strings into
+#birdwatch_sub$date<-parse_date_time(birdwatch$dateonly,"dmy")  #transform character strings into
                                                #time format
                                                
 UK@data$id = rownames(UK@data)
 UK.Df<-fortify(UK, region="id")
 
-bird.points<-fortify(birdwatch_sub)
+bird.points<-fortify(bird.points)
 
 plot.years <- ggplot(data=bird.points,aes(x=longitude, y=latitude))+
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
@@ -163,18 +170,22 @@ plot.years <- ggplot(data=bird.points,aes(x=longitude, y=latitude))+
               (max(bird.points$longitude)+0.05)), 
               ylim = c((min(bird.points$latitude)-0.05),
               (max(bird.points$latitude)+0.05))) +
-              geom_point(color="dodgerblue4",size=1,shape=".")+
+              geom_point(color="dodgerblue4", size=0.5)+
              stat_density2d(aes(x = longitude, 
-             y = latitude,  fill = ..level.., alpha = ..level..), 
-             geom = "polygon", colour = "grey95") + 
+             y = latitude,  fill = ..level.., alpha = ..level..), geom = "polygon") + 
              scale_fill_gradient(low = "yellow", high = "red") +
              scale_alpha(range = c(.25, .5), guide = FALSE) +
              facet_wrap(~ year)+
-             theme(text=element_text(size=18),legend.position = c(.9, .15))
+             theme(axis.title.x=element_blank(), axis.text.x=element_blank(),  # don't display x and y axes labels, titles and tickmarks 
+             axis.ticks.x=element_blank(),axis.title.y=element_blank(),   
+             axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+             text=element_text(size=18),legend.position = c(.9, .15),
+             panel.grid.major = element_blank(),                            # eliminates grid lines from background
+             panel.background = element_blank())
         
-
+tiff(filename="BirdDensRural.tiff",width=3000,height=3000,res=300)   
 plot.years
-
+dev.off()
 
 #######################################
 #######Seals
@@ -191,19 +202,21 @@ seal.plot.years <- ggplot(data=seal.points,aes(x=longitude, y=latitude))+
               ylim = c((min(seal.points$latitude)-0.05),
               (max(seal.points$latitude)+0.05))) +
               geom_point(color="dodgerblue4",size=1)+ 
-             #geom_path(Scot.fort,aes(x=long,y=lat,group=id))+  
              stat_density2d(aes(x = longitude, 
-             y = latitude,  fill = ..level.., alpha = ..level..), 
-             geom = "polygon", colour = "grey95") + 
+             y = latitude,  fill = ..level.., alpha = ..level..), geom = "polygon") + 
              scale_fill_gradient(low = "yellow", high = "red") +
              scale_alpha(range = c(.25, .5), guide = FALSE) +
-             #ggtitle("Seal watching in Scotland from 2005 to 2015")+
              facet_wrap(~ year)+
-             theme(text=element_text(size=18),legend.position = c(.9, .15))
+             theme(axis.title.x=element_blank(), axis.text.x=element_blank(),  # don't display x and y axes labels, titles and tickmarks 
+             axis.ticks.x=element_blank(),axis.title.y=element_blank(),   
+             axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+             text=element_text(size=18),legend.position = c(.9, .15),
+             panel.grid.major = element_blank(),                            # eliminates grid lines from background
+             panel.background = element_blank())
         
-
+tiff(filename="SealDens.tiff",width=3000,height=3000,res=300)   
 seal.plot.years
-
+dev.off()
 
 ########################################
 #####Dolphins & Whales
@@ -220,12 +233,18 @@ WD.plot.years <- ggplot(data=WD.points,aes(x=longitude, y=latitude))+
               (max(WD.points$latitude)+0.05))) +
               geom_point(color="dodgerblue4",size=1)+  
              stat_density2d(aes(x = longitude, 
-             y = latitude,  fill = ..level.., alpha= ..level..), 
-             geom = "polygon")+
+             y = latitude,  fill = ..level.., alpha= ..level..), geom = "polygon")+
              scale_fill_gradient(low = "yellow", high = "red") +
              scale_alpha(range = c(.25, .5), guide = FALSE) +
              facet_wrap(~ year)+
-             theme(text=element_text(size=18),legend.position = c(.9, .15))
-        
+             theme(axis.title.x=element_blank(), axis.text.x=element_blank(),  # don't display x and y axes labels, titles and tickmarks 
+             axis.ticks.x=element_blank(),axis.title.y=element_blank(),   
+             axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+             text=element_text(size=18),legend.position = c(.9, .15),
+             panel.grid.major = element_blank(),                            # eliminates grid lines from background
+             panel.background = element_blank())
+
+tiff(filename="W&Ddens.tiff",width=3000,height=3000,res=300)           
 WD.plot.years
+dev.off()
 
