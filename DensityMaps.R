@@ -103,7 +103,7 @@ bird.points$Season <- factor(quarters(bird.points$date),
 plot_2009<- ggplot(data=bird.points[bird.points$year=="2009",],
             aes(x=longitude, y=latitude))+
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
-             color="black", fill="gray82") + coord_fixed() +
+             color="gray82", fill="gray82") + coord_fixed() +
               coord_map(orientation = NULL, 
               xlim =c((min(bird.points$longitude)-0.05),
               (max(bird.points$longitude)+0.05)), 
@@ -120,10 +120,15 @@ plot_2009<- ggplot(data=bird.points[bird.points$year=="2009",],
             axis.text.y=element_blank(), axis.ticks.y=element_blank(),
             text=element_text(size=18),
             panel.grid.major = element_blank(),                            # eliminates grid lines from background
-            panel.background = element_blank())
+            panel.background = element_blank()) +
+            labs(fill = "Density")
+
         
-tiff(filename="BirdDensSeason.tiff",width=3000,height=3000,res=300)                                                     
-plot_2009  
+tiff(filename="Fig.4.tiff",width=3000,height=3000,res=300)                                                     
+plot_2009 + 
+annotate("point", x = -3.188267, y = 55.953252, shape = 15, size = 2, fill = "blue") +
+annotate("point", x = -4.2576300, y = 55.8651500, shape = 17, size = 2, fill = "blue") +
+annotate ("point", x = -3.272498, y = 57.943938, shape = 8) 
 dev.off()
 
 #####################################################
@@ -195,7 +200,7 @@ seal.points<-fortify(sealwatch)
 
 seal.plot.years <- ggplot(data=seal.points,aes(x=longitude, y=latitude))+
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
-             color="black", fill="gray82") + coord_fixed() +
+             color="gray82", fill="gray82") + coord_fixed() +
               coord_map(orientation = NULL, 
               xlim =c((min(seal.points$longitude)-0.05),
               (max(seal.points$longitude)+0.05)), 
@@ -212,10 +217,19 @@ seal.plot.years <- ggplot(data=seal.points,aes(x=longitude, y=latitude))+
              axis.text.y=element_blank(), axis.ticks.y=element_blank(),
              text=element_text(size=18),legend.position = c(.9, .15),
              panel.grid.major = element_blank(),                            # eliminates grid lines from background
-             panel.background = element_blank())
+             panel.background = element_blank()) +
+             labs(fill = "Density\n")
         
-tiff(filename="SealDens.tiff",width=3000,height=3000,res=300)   
-seal.plot.years
+tiff(filename="Fig.5.tiff",width=3000,height=3000,res=300)   
+seal.plot.years + 
+#Shetland
+annotate("point", x = -1.892431, y = 60.588436, shape = 3) +
+#Firth of Forth
+annotate("point", x = -3.005066, y = 56.083106, shape = 4) +
+#Tay
+annotate("point", x = -3.053825, y = 56.434017, shape = 25, fill = "black") +
+#Newburgh
+annotate("point", x = -2.001910, y = 57.319547, shape = 19)
 dev.off()
 
 ########################################
@@ -225,7 +239,7 @@ WD.points<-fortify(WDwatching)
 
 WD.plot.years <- ggplot(data=WD.points,aes(x=longitude, y=latitude))+
              geom_polygon(data=UK.Df,aes(x=long, y=lat, group=group), 
-             color="black", fill="gray82") + coord_fixed() +
+             color="gray82", fill="gray82") + coord_fixed() +
               coord_map(orientation = NULL, 
               xlim =c((min(WD.points$longitude)-0.05),
               (max(WD.points$longitude)+0.05)), 
@@ -242,9 +256,14 @@ WD.plot.years <- ggplot(data=WD.points,aes(x=longitude, y=latitude))+
              axis.text.y=element_blank(), axis.ticks.y=element_blank(),
              text=element_text(size=18),legend.position = c(.9, .15),
              panel.grid.major = element_blank(),                            # eliminates grid lines from background
-             panel.background = element_blank())
+             panel.background = element_blank()) +
+             labs(fill = "Density\n")
 
-tiff(filename="W&Ddens.tiff",width=3000,height=3000,res=300)           
-WD.plot.years
+tiff(filename="Fig.6.tiff",width=3000,height=3000,res=300)           
+WD.plot.years +
+#Aberdeen
+annotate("point", x = -2.094278, y = 57.149717, shape = 8, size = 2) +
+#Chanonry Point
+annotate("point", x = -4.093254, y = 57.574128, shape = 1, size = 2) 
 dev.off()
 
